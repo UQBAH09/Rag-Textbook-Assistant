@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-green)
+![RAG](https://img.shields.io/badge/Architecture-RAG-orange)
+
 # AI Textbook Question Generator (RAG)
 
 This project builds a Retrieval-Augmented Generation (RAG) system
